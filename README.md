@@ -1,4 +1,4 @@
-Joel-Castillo-CS394
+CS394 - iOS Development
 ===================
 
 Homework Assignments for CS394
