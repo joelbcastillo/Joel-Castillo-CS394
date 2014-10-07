@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5DD283F019D1232B008EE4B5"
-               BuildableName = "BlackJack-CS394.app"
-               BlueprintName = "BlackJack-CS394"
-               ReferencedContainer = "container:BlackJack-CS394.xcodeproj">
+               BlueprintIdentifier = "5DF724DE19E3623100CC97CF"
+               BuildableName = "BlackJack.app"
+               BlueprintName = "BlackJack"
+               ReferencedContainer = "container:BlackJack.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5DD2840519D1232C008EE4B5"
-               BuildableName = "BlackJack-CS394Tests.xctest"
-               BlueprintName = "BlackJack-CS394Tests"
-               ReferencedContainer = "container:BlackJack-CS394.xcodeproj">
+               BlueprintIdentifier = "5DF724F319E3623100CC97CF"
+               BuildableName = "BlackJackTests.xctest"
+               BlueprintName = "BlackJackTests"
+               ReferencedContainer = "container:BlackJack.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5DD2840519D1232C008EE4B5"
-               BuildableName = "BlackJack-CS394Tests.xctest"
-               BlueprintName = "BlackJack-CS394Tests"
-               ReferencedContainer = "container:BlackJack-CS394.xcodeproj">
+               BlueprintIdentifier = "5DF724F319E3623100CC97CF"
+               BuildableName = "BlackJackTests.xctest"
+               BlueprintName = "BlackJackTests"
+               ReferencedContainer = "container:BlackJack.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5DD283F019D1232B008EE4B5"
-            BuildableName = "BlackJack-CS394.app"
-            BlueprintName = "BlackJack-CS394"
-            ReferencedContainer = "container:BlackJack-CS394.xcodeproj">
+            BlueprintIdentifier = "5DF724DE19E3623100CC97CF"
+            BuildableName = "BlackJack.app"
+            BlueprintName = "BlackJack"
+            ReferencedContainer = "container:BlackJack.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5DD283F019D1232B008EE4B5"
-            BuildableName = "BlackJack-CS394.app"
-            BlueprintName = "BlackJack-CS394"
-            ReferencedContainer = "container:BlackJack-CS394.xcodeproj">
+            BlueprintIdentifier = "5DF724DE19E3623100CC97CF"
+            BuildableName = "BlackJack.app"
+            BlueprintName = "BlackJack"
+            ReferencedContainer = "container:BlackJack.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5DD283F019D1232B008EE4B5"
-            BuildableName = "BlackJack-CS394.app"
-            BlueprintName = "BlackJack-CS394"
-            ReferencedContainer = "container:BlackJack-CS394.xcodeproj">
+            BlueprintIdentifier = "5DF724DE19E3623100CC97CF"
+            BuildableName = "BlackJack.app"
+            BlueprintName = "BlackJack"
+            ReferencedContainer = "container:BlackJack.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

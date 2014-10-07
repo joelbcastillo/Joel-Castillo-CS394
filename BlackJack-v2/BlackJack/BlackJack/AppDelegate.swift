@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  BlackJack-CS394
+//  BlackJackHomework
 //
-//  Created by Joel Castillo on 9/22/14.
+//  Created by Joel Castillo on 9/21/14.
 //  Copyright (c) 2014 Joel Castillo. All rights reserved.
 //
 

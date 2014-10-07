@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:BlackJack-CS394.xcodeproj">
+      location = "self:BlackJack.xcodeproj">
    </FileRef>
 </Workspace>

@@ -1,3 +1,11 @@
+//
+//  Card.swift
+//  BlackJackHomework
+//
+//  Created by Joel Castillo on 9/22/14.
+//  Copyright (c) 2014 Joel Castillo. All rights reserved.
+//
+
 import Foundation
 enum Suit: Character{
     case Spades = "♠", Hearts = "♡", Diamonds = "♢", Clubs = "♣"
@@ -42,10 +50,9 @@ struct Card {
         self.suit = suit
         self.rank = rank
     }
-    
     var description: String {
-        var output = "Suit is \(suit.toRaw()),"
-            output += "Value is \(rank.values.first)"
+        var output = "\(suit.toRaw()),"
+            output += "\(rank.values.first)"
             if let second = rank.values.second {
                 output += " or \(second)"
             }

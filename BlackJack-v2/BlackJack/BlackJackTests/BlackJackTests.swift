@@ -1,15 +1,15 @@
 //
-//  BlackJack_CS394Tests.swift
-//  BlackJack-CS394Tests
+//  BlackJackTests.swift
+//  BlackJackTests
 //
-//  Created by Joel Castillo on 9/22/14.
+//  Created by Joel Castillo on 10/6/14.
 //  Copyright (c) 2014 Joel Castillo. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class BlackJack_CS394Tests: XCTestCase {
+class BlackJackTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
