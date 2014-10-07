@@ -8,7 +8,7 @@
 
 import Foundation
 class Person {
-    var stood: Bool = false
+    var pressedStand: Bool = false
     var cards: [Card] = []
     init () {
         

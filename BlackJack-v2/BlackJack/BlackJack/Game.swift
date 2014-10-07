@@ -61,7 +61,7 @@ class Game {
     //is removed from the players set and that player is out of the game
     func checkScore(player: Player) -> String {
         var dealerScore: Int = dealer.score().score + dealer.cards[0].rank.toRaw()
-        if (player.stood == true) {
+        if (player.pressedStand == true) {
             if (player.score().score > 21) {
                 dealer.showCards()
                 dealer.showHand()
