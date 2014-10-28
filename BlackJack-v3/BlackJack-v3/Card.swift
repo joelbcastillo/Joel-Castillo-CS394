@@ -1,0 +1,62 @@
+//
+//  Card.swift
+//  BlackJack-v3
+//
+//  Created by Joel Castillo on 10/7/14.
+//  Copyright (c) 2014 Joel Castillo. All rights reserved.
+//
+
+import Foundation
+struct Card {
+    enum Suit: Character {
+        case Spades = "♠", Hearts = "♡", Diamonds = "♢", Clubs = "♣"
+        func description() -> String {
+            switch self {
+            case .Spades:
+                return "spades"
+            case .Hearts:
+                return "hearts"
+            case .Diamonds:
+                return "diamonds"
+            case .Clubs:
+                return "clubs"
+            }
+        }
+    }
+    
+    enum Rank: Int {
+        case Two = 2, Three, Four, Five, Six, Seven, Eight, Nine, Ten
+        case Jack, Queen, King, Ace
+        struct Values {
+            let first: Int, second: Int?
+        }
+        
+        var values: Values {
+            switch self {
+            case .Ace:
+                return Values(first: 1, second: 11)
+            case .Jack, .Queen, .King:
+                return Values(first: 10, second: nil)
+            default:
+                return Values(first: self.toRaw(), second: nil)
+            }
+        }
+    }
+    
+    var suit: Suit
+    var rank: Rank
+    var hidden: Bool = false
+    init(rank: Rank, suit: Suit) {
+        self.suit = suit
+        self.rank = rank
+    }
+    
+    var description: String {
+        var output = "\(suit.toRaw()),"
+        output += "\(rank.values.first)"
+        if let second = rank.values.second {
+            output += " or \(second)"
+        }
+        return output
+    }
+}
