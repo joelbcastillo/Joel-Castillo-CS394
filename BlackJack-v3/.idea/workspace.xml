@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3660d94-de10-4e66-94a0-940f5ce58fef" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3.xcodeproj/project.xcworkspace/xcuserdata/joel.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDemo/ParseDemo.xcodeproj/project.xcworkspace/xcuserdata/joel.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/AppDelegate.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDemo/ParseDemo/AppDelegate.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3Tests/BlackJack_v3Tests.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/Card.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDemo/ParseDemo/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/Dealer.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/Deck.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/Game.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/Hand.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3Tests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDemo/ParseDemo/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDemo/ParseDemoTests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/Base.lproj/LaunchScreen.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDemo/ParseDemo/Base.lproj/LaunchScreen.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDemo/ParseDemo/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDemo/ParseDemo/ParseDemo-Bridging-Header.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDemo/ParseDemoTests/ParseDemoTests.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/Person.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/Player.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDemo/Podfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/Shoe.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3/ViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDemo/ParseDemo/ViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDemo/ParseDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack-v3.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDemo/ParseDemo.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BlackJack-v2/BlackJack/BlackJack.xcodeproj/project.xcworkspace/xcuserdata/joel.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/../BlackJack-v2/BlackJack/BlackJack.xcodeproj/project.xcworkspace/xcuserdata/joel.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BlackJack-v2/BlackJack/BlackJack/Deck.swift" afterPath="$PROJECT_DIR$/../BlackJack-v2/BlackJack/BlackJack/Deck.swift" />
+    </list>
+    <ignored path="BlackJack-v3.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos" />
+  <component name="FavoritesManager">
+    <favorites_list name="BlackJack-v3" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AppDelegate.swift" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BlackJack-v3/AppDelegate.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewController.swift" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BlackJack-v3/ViewController.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29801324" vertical-offset="0" max-vertical-offset="1057">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shoe.swift" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BlackJack-v3/Shoe.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlackJack_v3Tests.swift" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BlackJack-v3Tests/BlackJack_v3Tests.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/BlackJack-v3/ViewController.swift" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="y" value="23" />
+    <option name="width" value="960" />
+    <option name="height" value="1154" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlackJack-v3" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Products" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlackJack-v3" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlackJack-v3" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlackJack-v3" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager" selected="Application.BlackJack-v3">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="BlackJack-v3" TARGET_NAME="BlackJack-v3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BlackJack-v3" RUN_TARGET_NAME="BlackJack-v3" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="BlackJack-v3" TARGET_NAME="BlackJack-v3Tests" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="BlackJack-v3" TARGET_NAME="BlackJack-v3" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BlackJack-v3" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="BlackJack-v3" TARGET_NAME="BlackJack-v3" CONFIG_NAME="Debug" SCHEME_NAME="BlackJack-v3" RUN_TARGET_PROJECT_NAME="BlackJack-v3" RUN_TARGET_NAME="BlackJack-v3" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.BlackJack-v3" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3660d94-de10-4e66-94a0-940f5ce58fef" name="Default" comment="" />
+      <created>1414535315384</created>
+      <option name="number" value="Default" />
+      <updated>1414535315384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="23" width="960" height="1154" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.215625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BlackJack-v3/Shoe.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1057">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlackJack-v3Tests/BlackJack_v3Tests.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1057">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlackJack-v3/AppDelegate.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlackJack-v3/ViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29801324" vertical-offset="0" max-vertical-offset="1057">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
